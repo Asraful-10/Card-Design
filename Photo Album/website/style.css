@@ -22,8 +22,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
-
-
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-1:hover{
+    box-shadow: none;
 }
 .card-1 img{
     width: 100%;
@@ -79,6 +85,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-2:hover{
+    box-shadow: none;
 }
 .description-2{
     position: absolute;
@@ -130,7 +144,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
-
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-3:hover{
+    box-shadow: none;
 }
 .description-3{
     position: absolute;
@@ -186,6 +207,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-4:hover{
+    box-shadow: none;
 }
 .description-4{
     position: absolute;
@@ -239,6 +268,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-5:hover{
+    box-shadow: none;
 }
 .description-5{
     position: absolute;
@@ -293,7 +330,14 @@
     border-radius: 10px;
     position: relative;
     margin: 20px;
-
+    box-shadow: 0px 1px 1px 0px rgba(59, 83, 37, 0.589),
+    0px 2px 2px 0px rgba(59, 83, 37, 0.589),
+    0px 4px 4px 0px rgba(59, 83, 37, 0.589),
+    0px 8px 8px 0px rgba(59, 83, 37, 0.589),
+    0px 16px 16px 0px rgba(59, 83, 37, 0.589);
+}
+.card-6:hover{
+    box-shadow: none;
 }
 .card-6 img{
     width: 100%;
